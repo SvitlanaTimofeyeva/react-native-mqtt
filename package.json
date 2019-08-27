@@ -1,29 +1,65 @@
 {
-  "name": "react-native-mqtt",
-  "version": "0.2.0",
+  "_from": "react-native-mqtt-angelos3lex@^0.4.5",
+  "_id": "react-native-mqtt-angelos3lex@0.4.5",
+  "_inBundle": false,
+  "_integrity": "sha512-Vb4tEmOWCMLUWOPJTSKxxMWTRDKo8PJWL6yRX+4WS9iyjM+bh0nlff25gwoLQ7akaB0xmw9AZrszqL9qeU8QPA==",
+  "_location": "/react-native-mqtt-angelos3lex",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-mqtt-angelos3lex@^0.4.5",
+    "name": "react-native-mqtt-angelos3lex",
+    "escapedName": "react-native-mqtt-angelos3lex",
+    "rawSpec": "^0.4.5",
+    "saveSpec": null,
+    "fetchSpec": "^0.4.5"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-mqtt-angelos3lex/-/react-native-mqtt-angelos3lex-0.4.5.tgz",
+  "_shasum": "14149a1bf2ee97a384df9fe67d9f8140ecc239ed",
+  "_spec": "react-native-mqtt-angelos3lex@^0.4.5",
+  "_where": "/Users/svitlanatimofeyeva/Projects/readypark2",
+  "author": {
+    "name": "Tuan PM",
+    "email": "tuanpm@live.com",
+    "url": "http://tuanpm.net"
+  },
+  "bugs": {
+    "url": "https://github.com/notme001/react-native-mqtt/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Yury Korolev",
+      "email": "yury.korolev@gmail.com",
+      "url": "http://anjlab.com"
+    },
+    {
+      "name": "Alexander Ustinov",
+      "email": "rusfearuth@gmail.com",
+      "url": "http://github.com/rusfearuth"
+    }
+  ],
+  "deprecated": false,
   "description": "MQTT client for react-native",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1", 
-    "postinstall": "cd ios/RCTMqtt && pod install"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/notme001/react-native-mqtt.git"
-  },
+  "homepage": "https://github.com/notme001/react-native-mqtt#readme",
   "keywords": [
     "mqtt",
     "reactnative",
     "iot"
   ],
-  "author": "Tuan PM <tuanpm@live.com> (http://tuanpm.net)",
-  "contributors": [
-    { "name" : "Yury Korolev", "email" : "yury.korolev@gmail.com", "url" : "http://anjlab.com" },
-    { "name" : "Alexander Ustinov", "email" : "rusfearuth@gmail.com", "url" : "http://github.com/rusfearuth" }
-  ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/notme001/react-native-mqtt/issues"
+  "main": "index.js",
+  "name": "react-native-mqtt-angelos3lex",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/notme001/react-native-mqtt.git"
   },
-  "homepage": "https://github.com/notme001/react-native-mqtt#readme"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.4.5"
 }
